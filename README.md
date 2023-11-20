@@ -15,7 +15,8 @@
   To run this you need to install Inquire
   
   ## Usage
-  Here is a link to a video that runs through how to use this logo maker:
+  Here is a link to a video that runs through how to use this logo maker: 
+  https://drive.google.com/file/d/1QPY4raj36cqj5gW4yVTywAE-00UadbTY/view
   
   ## License
   ## License 
