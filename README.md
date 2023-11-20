@@ -4,12 +4,13 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
   
   ## Description
-  This is a handly simple logo maker that turns your answers to a handful of prompts into simple logo in the form of a .SVG file
+  This is a handy simple logo maker that turns your answers to a handful of prompts into simple logo in the form of a .SVG file.
+  - first you pick any three letters you like
+  - then pick what color you would like those letters to be
+  - third you pick either circle, triangle, or square
+  - finally you pick what color you want the shape to be
 
   ## Installation
   To run this you need to install Inquire
@@ -18,7 +19,6 @@
   Here is a link to a video that runs through how to use this logo maker: 
   https://drive.google.com/file/d/1QPY4raj36cqj5gW4yVTywAE-00UadbTY/view
   
-  ## License
   ## License 
 MIT
 
